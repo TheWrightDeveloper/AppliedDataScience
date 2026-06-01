@@ -1,2 +1,2 @@
 # AppliedDataScience
-Master of Science, Data Science
+Collection of Master of Science, Data Science
