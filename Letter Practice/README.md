@@ -13,6 +13,3 @@ As today’s kids and adults move into the digital world, they will have to star
 ## Built With
 
 Python 3, Flask, tensorflow
-
-
-CRUISIN ON MY SCRAPER BIIIIKE. 
